@@ -1,7 +1,7 @@
 {
   "match": {
-    "team1": "Team A",
-    "team2": "Team B",
+    "team1": "indis",
+    "team2": "africa",
     "date": "2024-07-13",
     "venue": "mcc"
   },
@@ -17,5 +17,5 @@
       "overs": 48
     }
   },
-  "status": "Team B won by 99 runs"
+  "status": "india won by 99 runs"
 }
